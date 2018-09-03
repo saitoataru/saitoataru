@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: #FFFFFF;
+  color: #808080;
   text-align: center;
 }
 
@@ -111,7 +111,7 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
-.lesson-wrapper {
+.MyHobby {
   height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
